@@ -15,10 +15,12 @@
         "title": "Team Meng",
         "width": 400,
         "height": 300,
-        "maxHeight": 600,
-        "maxWidth": 600,
-        "minHeight": 200,
-        "minWidth": 200
+        "label": "app",
+        "url": "https://leetcode.cn/",
+        "x": 100,
+        "y": 100,
+        "decorations": false,
+        "transparent": true
       }
     ],
     "security": {
