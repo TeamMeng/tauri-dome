@@ -15,7 +15,7 @@
         "title": "Team Meng",
         "width": 400,
         "height": 300,
-        "alwaysOnTop": true
+        "fullscreen": true
       }
     ],
     "security": {
