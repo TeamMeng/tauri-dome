@@ -15,9 +15,10 @@
         "title": "Team Meng",
         "width": 400,
         "height": 300,
-        "closable": false,
-        "maximizable": false,
-        "minimizable": false
+        "maxHeight": 600,
+        "maxWidth": 600,
+        "minHeight": 200,
+        "minWidth": 200
       }
     ],
     "security": {
